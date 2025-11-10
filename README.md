@@ -1,13 +1,15 @@
 # 📊 Web Traffic Analysis: Understanding User Interaction
 
-## Project Overview
+## Introduction
 
 This project analyzes website traffic data to understand how users interact with different pages over a 7-day period. The dataset (`traffic.csv`) contains user events such as **pageviews**, **previews**, and **clicks**, along with information about the geographic origin of the traffic and page content identifiers (**isrc**).
 
 The goal of the project is to explore traffic patterns, calculate click rates, examine relationships between previews and clicks, and provide insights into user behavior.
 
 
-## Structure
+## About the Project
+
+The project is divided into **2 main notebooks**:
 
 - **Data Cleaning Notebook**   
   Prepares and cleans the raw dataset for analysis. Steps include:  
